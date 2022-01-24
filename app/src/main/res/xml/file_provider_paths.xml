@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="umeng_cache"
+        path="umeng_cache/" />
+    <external-files-path
+        name="sharedata"
+        path="shareData/" />
+    <external-path
+        name="external_storage_root"
+        path="." />
+    <external-path
+        name="external_files"
+        path="." />
+    <external-path
+        name="path_name"
+        path="." />
+</paths>
